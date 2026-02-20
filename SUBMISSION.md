@@ -84,7 +84,7 @@ Implemented swagger for use the api in the web, and advance validation using joi
 - [x] Code pushed to public GitHub repository
 - [x] All mandatory requirements completed
 - [x] Code is tested and functional
-- [ ] README updated (if needed)
+- [x] README updated (if needed)
 - [x] This SUBMISSION.md file completed
 - [x] MS Teams recording completed and shared
 - [x] GitHub repository URL provided to RM
